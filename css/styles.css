@@ -50,3 +50,28 @@ h1 {
     width: 60%;
     transform: rotate(25deg);
 }
+
+/* Features */
+.features-container {
+    text-align: center;
+}
+
+.features-item {
+    margin-top: 8rem;
+    width: 2rem;
+}
+
+.features-icon {
+    color: #ff4c68;
+    font-size: 3.5rem;
+}
+
+.features-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+.features-info {
+    font-weight: 400;
+}
