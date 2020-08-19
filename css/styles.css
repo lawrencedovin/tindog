@@ -52,18 +52,21 @@ h1 {
 }
 
 /* Features */
-.features-container {
+#features {
+    padding: 7% 15%;
     text-align: center;
 }
 
 .features-item {
-    margin-top: 8rem;
-    width: 2rem;
+    padding: 3%;
 }
 
 .features-icon {
+    color: #ef8172;
+}
+
+.features-icon:hover {
     color: #ff4c68;
-    font-size: 3.5rem;
 }
 
 .features-title {
@@ -74,4 +77,5 @@ h1 {
 
 .features-info {
     font-weight: 400;
+    color: #8f8f8f;
 }
